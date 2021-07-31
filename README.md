@@ -14,6 +14,7 @@ They are all from Estonia
 
 They are all Shih Tzus that weigh 190 lbs
 
+<img src = '../main/Data/3.png' width='75%' height='75%'>
 
 **4. The Personality Dimension that has the highest average number of completed tests in the Dognition_aggregated_by_DogID data set is**
 
