@@ -19,7 +19,7 @@ They are all Shih Tzus that weigh 190 lbs
 
 None of them. All of the personality dimensions have very similar completion rates.
 
-<img src = '../main/Data/4'>
+<img src = '../main/Data/4.png'>
 
 **5. What is consistent about the relationship between breeding group and number of tests completed, regardless of whether you aggregate the variable representing the number of tests completed by the median or the average of the breeding group?**
 
