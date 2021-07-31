@@ -31,7 +31,7 @@ Hound dogs complete the least number of tests
 
 Socialite
 
-<img src = '../main/Data/6.png' width='75%' height='75%'>
+<img src = '../main/Data/6.png' width='150%' height='150%'>
 
 **7. Which of the following describes the median number of tests dogs of different breed types complete?**
 
