@@ -86,7 +86,6 @@ Wyoming (WY)
 
 Average aggregations are more sensitive to extreme values than median aggregations
 
-<img src = '../main/Data/13.png' width='75%' height='75%'>
 
 **14. When looking at only dogs who completed 19 or less tests, which of the following is true about the relationship between inter-test intervals (ITIs) and number of tests completed? Click all that apply.**
 
@@ -94,7 +93,9 @@ There was a significant negative (p < .05) correlation between median ITIs and n
 
 There was a significant positive (p < .05) correlation between average ITIs and number of tests completed
 
-<img src = '../main/Data/14.png' width='75%' height='75%'>
+<img src = '../main/Data/14a.png' width='75%' height='75%'>
+
+<img src = '../main/Data/14b.png' width='75%' height='75%'>
 
 **15. When looking at only dogs who completed 7 or less tests, which of the following is true about the relationship between inter-test intervals (ITIs) and number of tests completed? Click all that apply**
 
