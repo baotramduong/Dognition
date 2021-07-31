@@ -24,7 +24,7 @@ None of them. All of the personality dimensions have very similar completion rat
 
 **5. What is consistent about the relationship between breeding group and number of tests completed, regardless of whether you aggregate the variable representing the number of tests completed by the median or the average of the breeding group?**
 
-Hound dogs complete the least number of tests
+Toy dogs complete the least number of tests
 
 <img src = '../main/Data/5.png' width='75%' height='75%'>
 
