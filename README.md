@@ -19,21 +19,25 @@ They are all Shih Tzus that weigh 190 lbs
 
 None of them. All of the personality dimensions have very similar completion rates.
 
+<img src = '../main/Data/4'>
 
 **5. What is consistent about the relationship between breeding group and number of tests completed, regardless of whether you aggregate the variable representing the number of tests completed by the median or the average of the breeding group?**
 
 Toy dogs complete the least number of tests
 
+<img src = '../main/Data/5'>
 
 **6. What personality type has the strongest representation (greatest number of records) in the sporting breed group?**
 
 Socialite
 
+<img src = '../main/Data/6'>
 
 **7. Which of the following describes the median number of tests dogs of different breed types complete?**
 
 All breed types complete a median of 7 tests
 
+<img src = '../main/Data/7'>
 
 **8. How do the average number of tests dogs complete compare for fixed vs. not fixed dogs across different breed types? Cchoose all that apply**
 
@@ -41,6 +45,7 @@ Fixed dogs complete more tests than non-fixed dogs in all breed types
 
 The greatest difference between the average number of tests completed by fixed vs. non-fixed dogs occurs in the Mixed Breed/ I Don’t Know breed category
 
+<img src = '../main/Data/8'>
 
 **9. Which of the following are true about the average number of tests dogs complete when comparing DNA vs. not DNA-tested dogs who were fixed vs. not fixed across different breed types? Click all that apply.**
 
@@ -50,14 +55,17 @@ The Cross-Breed dogs that were DNA tested but NOT fixed were mostly Labrador Ret
 
 DNA-tested dogs completed more tests than dogs that were NOT DNA tested in all categories except for the category of Popular Hybrids who were fixed
 
+<img src = '../main/Data/9'>
 
 **10. When you make a filled map that displays the number of unique Dog IDs in each country, there is country in Africa that has a deep color, suggesting it has a lot of users. When you hover over that country, what Country is displayed on the tool tip?**
 
+<img src = '../main/Data/10'>
 
 **11. Which state within the United States has the most Dognition customers?**
 
 California, with New York having the second greatest number of customers
 
+<img src = '../main/Data/11'>
 
 **12. Which of the following states did customers complete a median number of tests that was greater than 13? Check all that apply.**
 
@@ -71,11 +79,13 @@ South Dakota (SD)
 
 Wyoming (WY)
 
+<img src = '../main/Data/12'>
 
 **13. Which of the following is true?**
 
 Average aggregations are more sensitive to extreme values than median aggregations
 
+<img src = '../main/Data/13'>
 
 **14. When looking at only dogs who completed 19 or less tests, which of the following is true about the relationship between inter-test intervals (ITIs) and number of tests completed? Click all that apply.**
 
@@ -83,9 +93,12 @@ There was a significant negative (p < .05) correlation between median ITIs and n
 
 There was a significant positive (p < .05) correlation between average ITIs and number of tests completed
 
+<img src = '../main/Data/14'>
 
 **15. When looking at only dogs who completed 7 or less tests, which of the following is true about the relationship between inter-test intervals (ITIs) and number of tests completed? Click all that apply**
 
 There was a significant positive (p < .05) correlation between average ITIs and number of tests completed
 
 There was a significant negative (p < .05) correlation between median ITIs and number of tests completed
+
+<img src = '../main/Data/15'>
