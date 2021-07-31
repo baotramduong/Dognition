@@ -37,7 +37,7 @@ Socialite
 
 All breed types complete a median of 7 tests
 
-<img src = '../main/Data/7.png' width='50%' height='50%'>
+<img src = '../main/Data/7.png' width='65%' height='65%'>
 
 **8. How do the average number of tests dogs complete compare for fixed vs. not fixed dogs across different breed types? Cchoose all that apply**
 
