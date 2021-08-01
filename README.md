@@ -46,7 +46,7 @@ Fixed dogs complete more tests than non-fixed dogs in all breed types
 
 The greatest difference between the average number of tests completed by fixed vs. non-fixed dogs occurs in the Mixed Breed/ I Don’t Know breed category
 
-<img src = '../main/Data/8.png' width='75%' height='75%'>
+<img src = '../main/Data/8.png'>
 
 **9. Which of the following are true about the average number of tests dogs complete when comparing DNA vs. not DNA-tested dogs who were fixed vs. not fixed across different breed types? Click all that apply.**
 
@@ -56,7 +56,7 @@ The Cross-Breed dogs that were DNA tested but NOT fixed were mostly Labrador Ret
 
 DNA-tested dogs completed more tests than dogs that were NOT DNA tested in all categories except for the category of Popular Hybrids who were fixed
 
-<img src = '../main/Data/9.png' width='75%' height='75%'>
+<img src = '../main/Data/9.png'>
 
 **10. When you make a filled map that displays the number of unique Dog IDs in each country, there is country in Africa that has a deep color, suggesting it has a lot of users. When you hover over that country, what Country is displayed on the tool tip?**
 
